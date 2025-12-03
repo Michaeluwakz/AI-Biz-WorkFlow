@@ -276,45 +276,38 @@ Here's a **REAL patient journey** showing how all 4 platforms work together:
 
 1. **💳 Consumer Subscriptions**
    - Free basic version
-   - Premium: ₦2,500/month ($3)
-   - Family plan: ₦7,000/month for 5 people
+   - Premium
+   - Family plan
    - **Target: 500,000 premium users by Year 5 = ₦15 billion/year**
 
 2. **🏥 Hospital Subscriptions**
-   - Small clinic: ₦50,000/month
-   - Medium hospital: ₦200,000/month
-   - Large hospital: ₦500,000/month
+   - Small clinic
+   - Medium hospital
+   - Large hospital
    - **Target: 500 hospitals = ₦1.2 billion/year**
 
 3. **💊 Pharmacy Network**
-   - 5,000 clinics at ₦5,000/month
-   - **₦300 million/year**
+   - 5,000 clinics
 
 4. **🔄 Referral Commissions**
    - Small fee when patients complete referrals
-   - **₦1.2 billion/year**
+
 
 5. **🏢 Corporate Wellness**
    - Companies pay for employee health
-   - **₦150 million/year**
 
 6. **👨‍⚕️ Telemedicine**
    - Video doctor consultations
-   - 20% commission per session
-   - **₦600 million/year**
+   - 15% commission per session
 
 7. **💊 Pharmaceutical Partnerships**
    - Drug companies sponsor health education (ethical only)
-   - **₦300 million/year**
 
 8. **📊 Research Partnerships**
    - Anonymized health data for research
    - Clinical trial recruitment
-   - **₦500 million/year**
 
 ### **💵 Total Revenue Projection (Year 5): ₦19.25 BILLION ($23.1 Million)**
-
-**Net Profit Year 5: ₦7.75 BILLION ($9.3 Million)**
 
 ---
 
@@ -512,12 +505,6 @@ Here's a **REAL patient journey** showing how all 4 platforms work together:
 - ✅ Partnership strategies defined
 - ✅ Go-to-market plan complete
 
-### **🎯 Next 6 Months:**
-- 🎯 Launch Nigeria pilot (Lagos, Abuja)
-- 🎯 Sign first 3 hospital partners
-- 🎯 Acquire 10,000 users
-- 🎯 Raise ₦1 billion ($2.5M) seed funding
-
 ---
 
 ## 👥 **WHO WE'RE RECRUITING (Team We Need)**
@@ -568,7 +555,6 @@ We're not building just an app - **we're building the future of African healthca
 ### **2025: Nigeria's Leading Health App**
 - 500,000 users
 - 50+ hospital partners
-- Household name in Lagos and Abuja
 
 ### **2027: West Africa's Healthcare OS**
 - 5 million users across 5 countries
@@ -641,6 +627,3 @@ People who want to:
 **And we need YOU to make it happen.**
 
 ---
-
-*Last Updated: December 2025*  
-*For recruitment inquiries, partnership opportunities, or investment discussions, contact the CareMatch AI team.*
