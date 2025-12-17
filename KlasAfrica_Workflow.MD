@@ -9,7 +9,11 @@
 
 We're building the largest AI-powered learning platform in Africa where students access thousands of free courses personalized with African business examples (like Flutterwave and M-Pesa instead of Silicon Valley companies), while universities use our system to manage their students with continous personalized care and real-time analytics. 
 
-Think of it as **Coursera's content library + Google Classroom's management tools + ChatGPT's personalization**, but built specifically for Africa with African context at the core.
+KlasAfrica is an Ai powered tool that enables learning more personalized, gives students/learners numerous opportunity to learn and interact with their peers- university gets an LMS experience which manages students care, and gives quality and assurance— when studying from a distance.  
+
+We offers Offline capabilities, talent recruitment and training, skills development- and a versatile work space for both lecturers and students to communicate. 
+Think of us like Google classroom and coursera for Africa.  
+
 
 ---
 
