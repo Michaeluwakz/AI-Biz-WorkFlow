@@ -128,7 +128,7 @@ KlasAfrica isn't just a learning platform. It's a **complete educational ecosyst
 - **AI generates student IDs automatically** (in seconds, not days)
 - **Real-time dashboard** shows exactly what's happening
 - **Analytics predict** which students need help
-- **Affordable SaaS pricing**: $2-3 per student per year (vs. $500K systems)
+- **Affordable SaaS pricing**: $4 approximately 5000naira per student per year (vs. $500K systems)
 
 ## Problem #3: No Bridge Between Education and Employment
 
