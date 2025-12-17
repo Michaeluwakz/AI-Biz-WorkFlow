@@ -339,7 +339,7 @@ Here's a **REAL patient journey** showing how all 4 platforms work together:
 
 ### **5. 🤖 Multi-Model AI**
 **Not dependent on one AI provider.**
-- Uses Google AI, OpenAI, DeepSeek
+- Uses AI Trained with African Medical Datasets and Cloud AI Providers 
 - Can switch if one fails
 - Always improving with best models
 
