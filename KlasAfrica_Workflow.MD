@@ -193,20 +193,6 @@ We've aggregated the world's best educational content:
 - Khan Academy
 - And more...
 
-**12+ Categories:**
-- Computer Science & Programming
-- Business & Entrepreneurship
-- Data Science & AI
-- Digital Marketing
-- Design & Creativity
-- Mathematics
-- Engineering
-- Humanities
-- Health & Medicine
-- Languages
-- Personal Development
-- African Studies
-
 **All FREE. All accessible. All enhanced with African context.**
 
 ## 3. Virtual Classrooms (Professional Quality)
@@ -236,6 +222,7 @@ We've aggregated the world's best educational content:
 - Automatic ID generation
 - Department assignment
 - Email notifications
+
 
 ### B. Analytics Dashboard
 Real-time insights:
@@ -268,6 +255,7 @@ AI ensures:
 - **Department Messages:** Target specific groups
 - **Email Integration:** Automatic notifications
 - **Push Notifications:** Mobile alerts
+
 
 ## 5. Career Development Tools
 
@@ -317,6 +305,7 @@ Universities pay an annual subscription based on the number of students they hav
 - Communication systems (announcements, messaging)
 - Content curation and management
 - Ongoing support and platform updates
+- Course Creation
 
 **Why Universities Pay:**
 - **Cost Savings:** Traditional student management systems cost $500,000-$2,000,000 to implement. Our solution is a fraction of that cost.
@@ -361,28 +350,13 @@ Most students use the platform for **FREE**. A small percentage upgrade to Premi
 ## Revenue Stream #3: Corporate Training (~8% of revenue)
 
 **The Model:**
-Businesses pay for customized training programs for their employees.
+Businesses pay per job and training program posting 
 
 **What Corporations Get:**
-- Custom training curriculum designed for their industry
-- Employee skills assessment and tracking
 - Progress monitoring and analytics
-- Completion certificates
-- Integration with their HR systems
-- Dedicated account management
+- Completion certificates for posted Programs
+- Skill talented Students 
 
-**Use Cases:**
-- Onboarding new employees
-- Upskilling existing workforce
-- Technical skills training (coding, data analysis)
-- Soft skills development
-- Compliance and certification programs
-
-**Pricing Approach:**
-- Tiered based on company size and program scope
-- Annual contracts for ongoing training
-- Custom packages for enterprise clients
-- *(Pricing customized per client based on requirements)*
 
 ## Revenue Stream #4: Additional Services (~6% of revenue)
 
@@ -419,7 +393,7 @@ Businesses pay for customized training programs for their employees.
 
 - **70%** from University Subscriptions (B2B SaaS)
 - **16%** from Premium Student Features (B2C Freemium)
-- **8%** from Corporate Training (B2B Custom)
+- **8%** from Corporate Training and Recruitment (B2B Custom)
 - **6%** from Additional Services (Multiple streams)
 
 **Why This Model Works:**
